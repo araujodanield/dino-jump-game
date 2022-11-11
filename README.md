@@ -18,7 +18,7 @@ e como a manipulação de elementos utilizando o JavaScript funciona na prática
 Todas as imagens que estou utilizando neste projeto são gratuitas e podem ser baixadas 
 <a href="https://www.gameart2d.com/freebies.html"><b>aqui</b></a>.
 
-Se você quiser você pode conferir o jogo <a href="https://araujodanield.github.io/Dino-Jump-Game/" target="_blank">clicando aqui</a> (esteja ciente que ainda está muito bugado).
+Se você quiser você pode conferir o jogo <a href="https://araujodanield.github.io/Dino-Jump-Game/" target="_blank"><b>clicando aqui</b></a> (esteja ciente de que ainda está muito bugado).
 
 #
 
