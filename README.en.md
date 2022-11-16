@@ -18,7 +18,7 @@ and how the manipulation of elements with JavaScript really works.<br>
 All the assets I'm using in this project are free to download and can be found 
 <a href="https://www.gameart2d.com/freebies.html" target=”_blank”><b>here</b></a>.
 
-If you want, you can check the game by <a href="https://araujodanield.github.io/Dino-Jump-Game/" target="_blank"><b>clicking here</b></a> (be aware that's still very bugged).
+If you want, you can check the game by <a href="https://araujodanield.github.io/dino-jump-game/" target="_blank"><b>clicking here</b></a> (be aware that's still very bugged).
 
 #
 
